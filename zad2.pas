@@ -25,7 +25,6 @@ begin
 	      write(bin[j]);
 
 	  writeln;
-	  readln;
 
   writeln('Jeszcze raz? T/N');
   readln(tn);
